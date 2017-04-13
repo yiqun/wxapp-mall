@@ -2,6 +2,7 @@
   "pages": [
     "pages/start/index",
     "pages/index/index",
+    "pages/m-mall/index",
     "pages/classify/index",
     "pages/cart/index",
     "pages/address/list/index",
@@ -37,6 +38,11 @@
       "iconPath": "assets/images/iconfont-home.png",
       "selectedIconPath": "assets/images/iconfont-home-active.png",
       "text": "主页"
+    }, {
+      "pagePath": "pages/m-mall/index",
+      "iconPath": "assets/images/iconfont-home.png",
+      "selectedIconPath": "assets/images/iconfont-home-active.png",
+      "text": "m-mall主页"
     }, {
       "pagePath": "pages/classify/index",
       "iconPath": "assets/images/iconfont-list.png",

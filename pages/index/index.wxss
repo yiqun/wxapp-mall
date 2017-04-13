@@ -21,6 +21,11 @@
     color: #479de6;
 }
 
+swiper {
+    height:240px;
+    margin-top:-50px;
+}
+
 .swiper_box {
     width: 100%;
 }
